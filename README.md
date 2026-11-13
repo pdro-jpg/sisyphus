@@ -12,13 +12,17 @@ Pensando bem, eu concordo.
 
 Porque eu não tenho o que fazer? Porque eu simplesmente gosto de trabalhar?
 
-O buraco é mais embaixo.
+O buraco é mais embaixo e afeta muito mais pessoas do que parece.
 
 Temos vários hobbies, mas dedicar tanto tempo tentando escolher a melhor atividade pode acabar transformando o lazer em frustração — e em *doomscrolling*.
 
 > “Tenho tempo livre, mas não sei o que fazer.”
 
-A famosa **paralisia da decisão**.
+A famosa **Paralisia da Decisão**.
+
+"A Paralisia da Decisão, definida como a incapacidade de tomar decisões devido a opções esmagadoras ou incerteza, é um sintoma frequentemente negligenciado do Transtorno de Déficit de Atenção / Hiperatividade (TDAH). Indivíduos com TDAH frequentemente lutam com disfunção executiva, dificultando a priorização de tarefas, avaliando escolhas e tomando decisões oportunas."
+
+Estudo de referência: https://bit.ly/4zoWBP9
 
 Daí surgiu a ideia do projeto: diminuir essa barreira inicial que às vezes enfrentamos para começar ou continuar alguma atividade.
 
